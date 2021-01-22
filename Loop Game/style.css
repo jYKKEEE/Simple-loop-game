@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin: auto;
+}
+#loop {
+  width: 238px;
+  height: 364px;
+  border: 10px solid black;
+  margin: auto;
+}
+#button {
+  align-items: center;
+}
